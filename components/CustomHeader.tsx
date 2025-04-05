@@ -2,7 +2,7 @@ import React, { ReactNode } from 'react'
 import { View, Text, StyleSheet, ViewStyle, StyleProp, Image } from 'react-native'
 import {COLORS} from '../constants/Theme'
 const psgLogo = require('../assets/images/right-logo.png')
-const psgIMSLogo = require('../assets/images/PSG_Institute_of_Medical_Sciences_&_Research_Logo.svg.png')
+const psgIMSLogo = require('../assets/images/PSG_Institute_of_Medical_Sciences_&_Research_Logo.png')
 
 interface CustomHeaderProps {
   title: string

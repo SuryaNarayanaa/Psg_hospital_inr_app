@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "Psg_hospital_inr_app",
-    "slug": "Psg_hospital_inr_app",
+    "slug": "psg-imsr",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/PSG_Institute_of_Medical_Sciences_&_Research_Logo.svg.png",
+    "icon": "./assets/images/PSG_Institute_of_Medical_Sciences_&_Research_Logo.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -49,7 +49,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "../assets/images/PSG_Institute_of_Medical_Sciences_&_Research_Logo.svg.png",
+          "image": "../assets/images/PSG_Institute_of_Medical_Sciences_&_Research_Logo.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
@@ -65,8 +65,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "5d81f4d5-b785-42db-a9ba-be45d01dc912"
+        "projectId": "f132d797-1056-4bd3-8865-e0c3ba50509a"
       }
-    }
+    },
+    "owner": "suryanarayanaant"
   }
 }
